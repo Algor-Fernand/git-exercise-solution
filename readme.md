@@ -1,9 +1,3 @@
-#Git Exercise Projects
-
-This project will be used for a series of git exercises.
-## BUNDLE2
-## EXERCISE 1
-´´´bash
 DOLPHIX ELECTRONICS@DESKTOP-TJ49EDU MINGW64 ~/OneDrive/Documents/GitHub/git-exercise-solution (dev)
 $ git checkout -b ft/bundle-2
 Switched to a new branch 'ft/bundle-2'
@@ -59,4 +53,3 @@ branch 'ft/bundle-2' set up to track 'origin/ft/bundle-2'.
 
 DOLPHIX ELECTRONICS@DESKTOP-TJ49EDU MINGW64 ~/OneDrive/Documents/GitHub/git-exercise-solution (ft/bundle-2)
 $
-´´´
